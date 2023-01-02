@@ -1,0 +1,77 @@
+body {
+  background-color: #252525;
+}
+
+.navbar {
+  height: 80px;
+  background-color: #252525;
+}
+
+.d-flex ::placeholder {
+  color: #fcc300;
+}
+
+input.form-control {
+  color: #fcc300;
+  border-color: #101010;
+  background-color: #101010;
+}
+
+.d-flex {
+  width: 505px;
+}
+
+.btn-custom {
+  margin-right: 20px;
+  padding: 11px 26px 11px 26px;
+  background-color: #101010;
+  color: #fcc300;
+}
+
+.btn-custom4 {
+  padding: 11px 26px 11px 26px;
+  background-color: #fcc300;
+  color: #101010;
+}
+
+.jumbotron {
+  background-size: cover;
+  height: 440px;
+  background-image: url(img/hero.png);
+  margin-bottom: 49px;
+}
+
+.about {
+  padding-top: 39px;
+  background-color: #101010;
+  color: #fcc300;
+  height: 292px;
+}
+
+.best {
+  color: #fcc300;
+  margin-bottom: 49px;
+}
+
+.art {
+  color: #fcc300;
+  margin-bottom: 35px;
+  margin-top: 50px;
+}
+
+.design {
+  color: #fcc300;
+  margin-bottom: 35px;
+}
+
+.logo {
+  color: #fcc300;
+  margin-bottom: 35px;
+}
+
+.footer {
+  padding-top: 37px;
+  height: 330px;
+  color: #fcc300;
+  background-color: #101010;
+}
